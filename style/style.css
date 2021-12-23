@@ -1,0 +1,176 @@
+Ви здійснили:
+
+<%if(util.noZeroDecimal(util.counterValue('440', false, 2)) >0){%>
+${Math.round((util.counterValue('440', false, 2)) ?:0)} покупку (-и) на Prom ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('43F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('43F', false, 2)) ?:0)} • в online-партнера AliExpress,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('448', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('448', false, 2)) ?:0)} • в online-партнера Agoda,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('449', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('449', false, 2)) ?:0)} • в online-партнера 7 Heaven,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44A', false, 2)) ?:0)} • в online-партнера Agromarket,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44B', false, 2)) ?:0)} • в online-партнера Alibaba,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44C', false, 2)) ?:0)} • в online-партнера Allo ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44D', false, 2)) ?:0)} • в online-партнера Answear ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44E', false, 2)) ?:0)} • в online-партнера Antoshka ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('44F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('44F', false, 2)) ?:0)} • в online-партнера Apteka24 ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('450', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('450', false, 2)) ?:0)} • в online-партнера Auchan ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('451', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('451', false, 2)) ?:0)} • в online-партнера Avtmarket ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('452', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('452', false, 2)) ?:0)} • в online-партнера B2B Korall ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('453', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('453', false, 2)) ?:0)} • в online-партнера Banggood ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('454', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('454', false, 2)) ?:0)} • в online-партнера Bellelily ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('455', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('455', false, 2)) ?:0)} • в online-партнера Berrylook ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('456', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('456', false, 2)) ?:0)} • в online-партнера Bomond,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('457', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('457', false, 2)) ?:0)} • в online-партнера Bonprix ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('458', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('458', false, 2)) ?:0)} • в online-партнера Book24 ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('459', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('459', false, 2)) ?:0)} • в online-партнера Booking,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45A', false, 2)) ?:0)} • в online-партнера Born2be ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45C', false, 2)) ?:0)} • в online-партнера Cardo ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45B', false, 2)) ?:0)} • в online-партнера Boutiquefeel ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45D', false, 2)) ?:0)} • в online-партнера Carter's,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45E', false, 2)) ?:0)} • в online-партнера Cesdeals ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('45F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('45F', false, 2)) ?:0)} • в online-партнера Chicco ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('460', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('460', false, 2)) ?:0)} • в online-партнера ChicMe ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('461', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('461', false, 2)) ?:0)} • в online-партнера City.Travel ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('462', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('462', false, 2)) ?:0)} • в online-партнера Compensair ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('463', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('463', false, 2)) ?:0)} • в online-партнера Conteshop,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('464', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('464', false, 2)) ?:0)} • в online-партнера Depositphotos,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('466', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('466', false, 2)) ?:0)} • в online-партнера DHgate ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('467', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('467', false, 2)) ?:0)} • в online-партнера Discover car hire,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('468', false, 2)) >0){%>Кількість покупок: ${Math.round((util.counterValue('468', false, 2)) ?:0)}• в online-партнераа Dok.UA,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('469', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('469', false, 2)) ?:0)} • в online-партнера Dresslily ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46A', false, 2)) ?:0)} • в online-партнера Dx ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46B', false, 2)) ?:0)} • в online-партнера Easyrentcars ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46C', false, 2)) ?:0)} • в online-партнера Elektreka ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46D', false, 2)) ?:0)} • в online-партнера Eobuv ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46E', false, 2)) ?:0)} • в online-партнера Ericdress ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('46F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('46F', false, 2)) ?:0)} • в online-партнера EXIST.UA,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('470', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('470', false, 2)) ?:0)} • в online-партнера Fairyseason ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('471', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('471', false, 2)) ?:0)} • в online-партнера FarvaterTravel ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('472', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('472', false, 2)) ?:0)} • в online-партнера Flagman ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('473', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('473', false, 2)) ?:0)} • в online-партнера Florium ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('474', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('474', false, 2)) ?:0)} • в online-партнера Floryday ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('475', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('475', false, 2)) ?:0)} • в online-партнера Foodex24 ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('476', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('476', false, 2)) ?:0)} • в online-партнера Footshop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('477', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('477', false, 2)) ?:0)} • в online-партнера Fragranceshop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('478', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('478', false, 2)) ?:0)} • в online-партнера GearBest ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('479', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('479', false, 2)) ?:0)} • в online-партнера Gepur ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47A', false, 2)) ?:0)} • в online-партнера Glasseslit ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47B', false, 2)) ?:0)} • в online-партнера Gold ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47C', false, 2)) ?:0)} • в online-партнера Goodwine ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47D', false, 2)) ?:0)} • в online-партнера Hillary-shop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47E', false, 2)) ?:0)} • в online-партнера Holapick ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('47F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('47F', false, 2)) ?:0)} • в online-партнера HonestGoods ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('480', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('480', false, 2)) ?:0)} • в online-партнера Hotels.com ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('481', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('481', false, 2)) ?:0)} • в online-партнера IBIS ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('482', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('482', false, 2)) ?:0)} • в online-партнера iHerb ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('483', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('483', false, 2)) ?:0)} • в online-партнера il Molino ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('484', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('484', false, 2)) ?:0)} • в online-партнера Inbus ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('485', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('485', false, 2)) ?:0)} • в online-партнера Internet-Bilet ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('486', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('486', false, 2)) ?:0)} • в online-партнера INTERTOP ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('487', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('487', false, 2)) ?:0)} • в online-партнера Intui.travel transfer,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('489', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('489', false, 2)) ?:0)} • в online-партнера Kiwi,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('488', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('488', false, 2)) ?:0)} • в online-партнера Ivrose ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48A', false, 2)) ?:0)} • в online-партнера Knowfashionstyle ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48B', false, 2)) ?:0)} • в online-партнера Konfiskat ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48C', false, 2)) ?:0)} • в online-партнера Kontramarka ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48D', false, 2)) ?:0)} • в online-партнера Lacoste ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48E', false, 2)) ?:0)} • в online-партнера Lamoda ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('48F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('48F', false, 2)) ?:0)} • в online-партнера Lightake ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('490', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('490', false, 2)) ?:0)} • в online-партнера Liki24 ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('491', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('491', false, 2)) ?:0)} • в online-партнера Lotto-sport ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('492', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('492', false, 2)) ?:0)} • в online-партнера Love&Live ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('493', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('493', false, 2)) ?:0)} • в online-партнера Lovelywholesale ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('494', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('494', false, 2)) ?:0)} • в online-партнера Mafia ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('495', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('495', false, 2)) ?:0)} • в online-партнера Medmagazin ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('496', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('496', false, 2)) ?:0)} • в online-партнера Minimal Silver,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('497', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('497', false, 2)) ?:0)} • в online-партнера Mister Cat ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('498', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('498', false, 2)) ?:0)} • в online-партнера Modoza ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('499', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('499', false, 2)) ?:0)} • в online-партнера Nadzor ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49A', false, 2)) ?:0)} • в online-партнера Newchic ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49B', false, 2)) ?:0)} • в online-партнера Oshkosh ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49C', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49C', false, 2)) ?:0)} • в online-партнера OTTO Trade ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49D', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49D', false, 2)) ?:0)} • в online-партнера Peggybuy ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49E', false, 2)) ?:0)} • в online-партнера Perfumestore ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('49F', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('49F', false, 2)) ?:0)} • в online-партнера PREGO ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A0', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A0', false, 2)) ?:0)} • в online-партнера Presli ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A1', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A1', false, 2)) ?:0)} • в online-партнера Priceefl ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A2', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A2', false, 2)) ?:0)} • в online-партнера Puccini ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A3', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A3', false, 2)) ?:0)} • в online-партнера Radisson Hotel Group,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A4', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A4', false, 2)) ?:0)} • в online-партнера Rentalcars ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A5', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A5', false, 2)) ?:0)} • в online-партнера Sakvoyazh ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A6', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A6', false, 2)) ?:0)} • в online-партнера Sex-shop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A7', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A7', false, 2)) ?:0)} • в online-партнера Shutterstock ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A8', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A8', false, 2)) ?:0)} • в online-партнера Simple-dress ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4A9', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4A9', false, 2)) ?:0)} • в online-партнера Skip Hop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AA', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AA', false, 2)) ?:0)} • в online-партнера SkyUp ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AB', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AB', false, 2)) ?:0)} • в online-партнера Sportmaster ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AC', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AC', false, 2)) ?:0)} • в online-партнера Sushiya ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AD', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AD', false, 2)) ?:0)} • в online-партнера Symbol ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AE', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AE', false, 2)) ?:0)} • в online-партнера Terrasport ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4AF', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4AF', false, 2)) ?:0)} • в online-партнера Teztour ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B0', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B0', false, 2)) ?:0)} • в online-партнера Tickets ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B1', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B1', false, 2)) ?:0)} • в online-партнера Time Of Style ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B2', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B2', false, 2)) ?:0)} • в online-партнера Tomtop ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B3', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B3', false, 2)) ?:0)} • в online-партнера Topshoptv ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B4', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B4', false, 2)) ?:0)} • в online-партнера TripMyDream,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B5', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B5', false, 2)) ?:0)} • в online-партнера Vovk ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B6', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B6', false, 2)) ?:0)} • в online-партнера Watsons ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B7', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B7', false, 2)) ?:0)} • в online-партнера Wellamart ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B8', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B8', false, 2)) ?:0)} • в online-партнера Whatwears ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4B9', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4B9', false, 2)) ?:0)} • в online-партнера Winetime ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4BA', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4BA', false, 2)) ?:0)} • в online-партнера Wittchen ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4BB', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4BB', false, 2)) ?:0)} • в online-партнера YesFrukt ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4BC', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4BC', false, 2)) ?:0)} • в online-партнера Yoins ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4BD', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4BD', false, 2)) ?:0)} • в online-партнера YVES ROCHER ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4BF', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4BF', false, 2)) ?:0)} • в online-партнера Zaful ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C0', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C0', false, 2)) ?:0)} • в online-партнера Zakaz ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C1', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C1', false, 2)) ?:0)} • в online-партнера Будинок іграшок ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C2', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C2', false, 2)) ?:0)} • в online-партнера Arber ,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C3', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C3', false, 2)) ?:0)} • в online-партнера Aurum,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C4', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C4', false, 2)) ?:0)} • в online-партнера Avtodiski,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C5', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C5', false, 2)) ?:0)} • в online-партнера Avtozvuk,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C6', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C6', false, 2)) ?:0)} • в online-партнера BambiniFashion,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C7', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C7', false, 2)) ?:0)} • в online-партнера Coffee-man,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C8', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C8', false, 2)) ?:0)} • в online-партнера coffeeok,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4C9', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4C9', false, 2)) ?:0)} • в online-партнера Cooker,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CA', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CA', false, 2)) ?:0)} • в online-партнера CookingBox,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CB', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CB', false, 2)) ?:0)} • в online-партнера Delimano,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CC', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CC', false, 2)) ?:0)} • в online-партнера Dormeo,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CD', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CD', false, 2)) ?:0)} • в online-партнера Eurogold,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CE', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CE', false, 2)) ?:0)} • в online-партнера FitLook,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4CF', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4CF', false, 2)) ?:0)} • в online-партнера Goldenplaza,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D0', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D0', false, 2)) ?:0)} • в online-партнера Issaplus,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D1', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D1', false, 2)) ?:0)} • в online-партнера Krauff,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D2', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D2', false, 2)) ?:0)} • в online-партнера Lekos,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D3', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D3', false, 2)) ?:0)} • в online-партнера Lolo,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D4', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D4', false, 2)) ?:0)} • в online-партнера MotoZilla,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D5', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D5', false, 2)) ?:0)} • в online-партнера Peak Sport,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D6', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D6', false, 2)) ?:0)} • в online-партнера Podushka,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D7', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D7', false, 2)) ?:0)} • в online-партнера Pretty Woman,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D9', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D9', false, 2)) ?:0)} • в online-партнера Red,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4D8', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4D8', false, 2)) ?:0)} • в online-партнера Putevka,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4DA', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4DA', false, 2)) ?:0)} • в online-партнера Starkbud,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4DB', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4DB', false, 2)) ?:0)} • в online-партнера Sushi-Master,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4DC', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4DC', false, 2)) ?:0)} • в online-партнера THE MAN,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('4DD', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('4DD', false, 2)) ?:0)} • в online-партнера Мой Ювелир,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('52A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('52A', false, 2)) ?:0)} • в online-партнера Puma UA,<%}%>
+<%if(util.noZeroDecimal(util.counterValue('529', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('529', false, 2)) ?:0)} • в online-партнера Argo UA<%}%>
+<%if(util.noZeroDecimal(util.counterValue('537', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('537', false, 2)) ?:0)} • в online-партнера Argo UA<%}%>
+<%if(util.noZeroDecimal(util.counterValue('53A', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('53A', false, 2)) ?:0)} • в online-партнера Lab24<%}%>
+<%if(util.noZeroDecimal(util.counterValue('53B', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('53B', false, 2)) ?:0)} • в online-партнера Goodwinehome<%}%>
+<%if(util.noZeroDecimal(util.counterValue('54E', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('54E', false, 2)) ?:0)} • в online-партнера OLL TV<%}%>
+<%if(util.noZeroDecimal(util.counterValue('558', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('558', false, 2)) ?:0)} • в online-партнера Artwinery <%}%>
+<%if(util.noZeroDecimal(util.counterValue('557', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('557', false, 2)) ?:0)} • в online-партнера Bookovka <%}%>
+<%if(util.noZeroDecimal(util.counterValue('560', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('560', false, 2)) ?:0)} • в online-партнера Secunda UA <%}%>
+<%if(util.noZeroDecimal(util.counterValue('201', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('201', false, 2)) ?:0)} • в online-партнера TUI Ukraine <%}%>
+<%if(util.noZeroDecimal(util.counterValue('5DD', false, 2)) >0){%> Кількість покупок:${Math.round((util.counterValue('5DD', false, 2)) ?:0)} • в online-партнера Orner <%}%><%if(util.noZeroDecimal(util.counterValue('448', false, 2)) >0){%>Кількість бронювань: ${Math.round((util.counterValue('440', false, 2)) ?:0)}
+• в online-партнера Agoda
+<%}%>
+<%if(util.noZeroDecimal(util.counterValue('459', false, 2)) >0){%>Кількість бронювань: ${Math.round((util.counterValue('459', false, 2)) ?:0)}
+• в online-партнера Booking
+<%}%>
+<%if(util.noZeroDecimal(util.counterValue('449', false, 2)) >0){%>Кількість бронювань: ${Math.round((util.counterValue('449', false, 2)) ?:0)}
+• в online-партнера Hotels.com
+<%}%>
+<%if(util.noZeroDecimal(util.counterValue('480', false, 2)) >0){%>Кількість бронювань: ${Math.round((util.counterValue('480', false, 2)) ?:0)}
+• в online-партнера Radisson Hotel Group
+<%}%><%if((Math.round(util.counterValue('448', false, 2)?:0) + Math.round(util.counterValue('459', false, 2)?:0) + Math.round(util.counterValue('480', false, 2)?:0) + Math.round(util.counterValue('4A3', false, 2)?:0))>0){%>
+Бали будуть нараховані впродовж 90 днів з моменту отримання замовлення та з моменту виселення. <%}%>
